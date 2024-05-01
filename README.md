@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Rock paper scissors game in python just a simple script taking 1,2 or 3 as user input (rock,paper or scissors) and importing random and computer randomly chooses between 1,2 and 3 and the normal game continues. Interesting visuals could be added as well but for now its just a simple script..
